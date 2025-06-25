@@ -5,4 +5,4 @@
 www.aljazeera.com##.recommended
 www.aljazeera.com##.sib-newsletter-form.general-style
 www.aljazeera.com##.more-on
-www.bbc.com##div[data-testid="ad-unit"][data-component="ad-slot"]
+www.bbc.com##div[data-testid="ad-unit"] > div#dotcom-top.dotcom-ad
