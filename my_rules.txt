@@ -1,8 +1,11 @@
 ! Title: cyrilby's custom adblock rules
-! Last modified: 2025-06-25 14:00 CET
+! Last modified: 2025-11-07 10:45 CET
 ! Expires: 3 days (update frequency)
 
-www.aljazeera.com##.recommended
 www.aljazeera.com##.sib-newsletter-form.general-style
 www.aljazeera.com##.more-on
-www.bbc.com##div[data-testid="ad-unit"][data-component="ad-slot"]
+www.aljazeera.com##.nudge
+www.aljazeera.com##.recommended
+www.dnevnik.bg##a.row.flex.middle.story-related
+www.aljazeera.com###playlist-container
+www.aljazeera.com##div[class="video-player-facade-container"]
