@@ -9,3 +9,4 @@ www.aljazeera.com##.recommended
 www.dnevnik.bg##a.row.flex.middle.story-related
 www.aljazeera.com###playlist-container
 www.aljazeera.com##div[class="video-player-facade-container"]
+reddit.com##shreddit-dynamic-ad-link[aria-label*="Advertisement"]
