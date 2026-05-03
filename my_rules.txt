@@ -10,3 +10,4 @@ www.dnevnik.bg##a.row.flex.middle.story-related
 www.aljazeera.com###playlist-container
 www.aljazeera.com##div[class="video-player-facade-container"]
 www.bbc.com##.kKqaMX.sc-22863e46-0
+www.infomaniak.com""div[class="_section_fivav_68"]
